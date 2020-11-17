@@ -1,2 +1,0 @@
-import streamlit== 0.71.0
-import pandas as pd==1.0.5
